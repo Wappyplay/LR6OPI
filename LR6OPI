@@ -11,7 +11,7 @@ int main()
     double a1, a2, a3;
     a1= 3 + exp((y - 1));
     a2= 1 + pow((x), 2) * fabs((y - tan((z))));
-    a3= tan((155) * M_PI / 180);
+    a3= tan((160) * M_PI / 180);
     a = a1 / a2 - a3;
     printf("Результат обчислeння: %.6f\n", a);
 }
