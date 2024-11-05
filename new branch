@@ -1,0 +1,15 @@
+#include <iostream>
+#include <math.h>
+using namespace std;
+int main ()
+{
+    float x, Y, sum;
+    cout << "Введіть значення x:";
+    cin>>x;
+    sum = 0;
+    for(int i=1;i<=6;i++){
+        sum+=i*i*i;
+    }
+    Y=(log(sum)+2*pow(sin(x),2))/(pow(x,2)+5);
+    cout<<"Результат операції:"<<Y;
+}
