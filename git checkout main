@@ -1,0 +1,57 @@
+[33mcommit 1ebf761240a188fd67330f0d34770c02d267eba8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Wappyplay <Wappyplay2007@gmail.com>
+Date:   Tue Nov 12 14:04:38 2024 +0200
+
+    DEL GIT
+
+[33mcommit d656fa5b5711be1c6399ef90ef3c2a22ffe52dfb[m
+Author: Wappyplay <Wappyplay2007@gmail.com>
+Date:   Tue Nov 12 13:58:06 2024 +0200
+
+    GIT NEW
+
+[33mcommit 1745b16c65fc85083efbbc5e967fab5ba3730f33[m
+Merge: 0ea9deb 0d49675
+Author: Wappyplay <Wappyplay2007@gmail.com>
+Date:   Tue Nov 5 14:23:23 2024 +0200
+
+    new branch3
+
+[33mcommit 0ea9debbabd814ae2b1e8d8b7b5c6a76184c8cf6[m[33m ([m[1;31morigin/Yevmenenko2[m[33m, [m[1;32mYevmenenko2[m[33m)[m
+Author: Wappyplay <Wappyplay2007@gmail.com>
+Date:   Tue Nov 5 14:05:02 2024 +0200
+
+    new branch
+
+[33mcommit 0d49675e15e7c4f59cc808125dfd5215906ca410[m
+Author: Wappyplay <Wappyplay2007@gmail.com>
+Date:   Tue Nov 5 13:52:42 2024 +0200
+
+    Rename LR6OPI to LR6OPI2
+
+[33mcommit 1f61d555a72356800c3325a85d5cca53f2eed5d4[m
+Merge: 3e23344 e153163
+Author: Wappyplay <Wappyplay2007@gmail.com>
+Date:   Tue Nov 5 01:33:53 2024 +0200
+
+    Merge pull request #1 from Wappyplay/Yevmenenko
+    
+    new branch
+
+[33mcommit e153163e7c32f784511d3944d29e988c119ee9d5[m[33m ([m[1;31morigin/Yеvmenenko[m[33m, [m[1;32mYеvmenenko[m[33m, [m[1;32mYevmеnenko[m[33m, [m[1;32mYevmenеnko[m[33m)[m
+Author: Wappyplay <Wappyplay2007@gmail.com>
+Date:   Tue Nov 5 00:54:49 2024 +0200
+
+    new branch
+
+[33mcommit 3e2334415ca44f40f5beae84832b1ca4b1f8f716[m
+Author: Wappyplay <Wappyplay2007@gmail.com>
+Date:   Wed Oct 23 01:12:12 2024 +0300
+
+    Update LR6OPI
+
+[33mcommit f776b63bbfafc954c3b32037248e9b6455d761fa[m
+Author: Wappyplay <Wappyplay2007@gmail.com>
+Date:   Wed Oct 23 01:05:57 2024 +0300
+
+    Create LR6OPI
