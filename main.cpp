@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
    const int n = 6;
-   int a[n] = {56, 48, 12};
+   int a[n] = {84, 38, 12};
    srand(time(NULL));
    for(int i=0; i<n; i++)
    //cin >> a[i];
