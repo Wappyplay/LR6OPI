@@ -5,8 +5,8 @@ using namespace std;
 #define m 5
 int main()
 {
-   const int n = 5;
-   int a[n] = {87, 58, 12};
+   const int n = 6;
+   int a[n] = {56, 48, 12};
    srand(time(NULL));
    for(int i=0; i<n; i++)
    //cin >> a[i];
