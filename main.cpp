@@ -10,5 +10,5 @@ int main()
    srand(time(NULL));
    for(int i=0; i<n; i++)
    //cin >> a[i];
-   cout << setw(7) << a[1];
+   cout << setw(8) << a[1];
 }
