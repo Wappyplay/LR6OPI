@@ -10,9 +10,5 @@ int main()
    srand(time(NULL));
    for(int i=0; i<n; i++)
    //cin >> a[i];
-   a[i] = rand()%20-10;     //[-10;9]
-   for (int i=0; i < n; i++)
-   cout  << setw(4) << a[i];
-   int min = a[0];
    cout << setw(7) << a[1];
 }
