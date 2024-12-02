@@ -8,8 +8,8 @@ int main()
     double x, y, z, a;
     printf("Введіть значення x, y, z: ");
     scanf("%lf %lf %lf", &x, &y, &z);
-    double a1, a2, a3;
-    a1= 3 + exp((y - 1));
+    double a1, a2, a3;asd
+    a1= 3 + exp((y - 1));dsad
     a2= 1 + pow((x), 2) * fabs((y - tan((z))));
     a3= tan((160) * M_PI / 180);
     a = a1 / a2 - a3;
