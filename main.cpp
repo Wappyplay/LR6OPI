@@ -14,11 +14,5 @@ int main()
    for (int i=0; i < n; i++)
    cout  << setw(4) << a[i];
    int min = a[0];
-   for (int i = 1; i<n; i++)
-   if (a[i] < min) min = a[i];
-   cout << "\nMin = " << min;
-   for (int i = 0; i < n; i++)
-   if(a[i] == min) cout << setw(4) <<i << endl;
-   for (int i = n-1; i >= 0; i--)
-   cout << setw(4) << a[1];
+   cout << setw(7) << a[1];
 }
